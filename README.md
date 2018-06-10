@@ -4,7 +4,7 @@
 
 ## Description
 
-This is based on the [hello-world](httpso://guides.github.com/activities/hello-world/) activity.
+This is based on the [hello-world](https://guides.github.com/activities/hello-world/) activity.
 
 ## License
 
